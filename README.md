@@ -1,3 +1,3 @@
 # GoogleMapApp
 
-Integrate Google Map in your Android Application.
+How to Integrate Google Map in your Android Application.
